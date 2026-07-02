@@ -150,4 +150,4 @@ The complete **US2000** archive on **[ork.ad](https://ork.ad/)** includes **13 O
 **[→ Get the full US2000 dataset on ork.ad](https://ork.ad/)**
 
 ---
-*GetData · US2000 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-01 UTC*
+*GetData · US2000 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-02 UTC*
